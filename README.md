@@ -15,6 +15,11 @@ To set it as your browser startpage using a browser plugin [like this one](https
 https://ashleymavericks.github.io/browser-startpage/
 ```
 
+Alternatives:
+```
+https://prettycoffee.github.io/yet-another-generic-startpage/
+```
+
 ## References
 [Yet another generic startpage](https://github.com/PrettyCoffee/yet-another-generic-startpage)
 
